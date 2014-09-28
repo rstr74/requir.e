@@ -1,0 +1,37 @@
+{
+	"name": "requir.e",
+	"version": "1.0.0",
+	"engines": {
+		"node": ">=0.10.13"
+	},
+	"description": "Require javascript files and eval them in the current scope.",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test/test.js"
+	},
+	"author": {
+		"name": "Robbert Streng",
+		"email": "rstreng2009@gmail.com"
+	},
+	"homepage": "https://github.com/rstr74/requir.e",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rstr74/requir.e.git"
+	},
+	"licenses": [{
+		"type": "MIT",
+		"url": "http://opensource.org/licenses/mit-license.php"
+	}],
+	"keywords": [
+		"async",
+		"runner",
+		"callbacks"
+	],
+	"dependencies": {},
+	"main": "./index.js",
+	"directories": {
+		"test": "./test"
+	},
+	"_id": "requir.e@1.0.0",
+	"_from": "requir.e"
+}
