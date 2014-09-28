@@ -5,6 +5,7 @@ All derived files then can use the same method to requir.e other subclasses.
 
 ``` js
 require("requir.e");
+
 // set package root ./src
 requir.eRoot("src");
 
